@@ -25,6 +25,8 @@
 
 ## Introduction
 This paper presents a Multi-Agent Digital Twin Blueprint for Athlete Injury Risk Assessment and Rehabilitation Planning. 
+We are updating the multi-agent system and uploading the code resources soon!
+We welcome any connection if you are interested in this work!
 
 ## Requirements
 
@@ -46,5 +48,3 @@ pip install -r requirements.txt
 If you have any questions or suggestions, feel free to contact:
 tzhao3@lsu.edu
 
-## Acknowledgement
-Our implementation adapts [Openpilot-Deepdive](https://github.com/OpenDriveLab/Openpilot-Deepdive) and [CAP_Attack](https://github.com/gitguige/openpilot0.8.9) as the code base and have extensively modified it to our purposes. We thank the authors for sharing their implementations and related resources.
