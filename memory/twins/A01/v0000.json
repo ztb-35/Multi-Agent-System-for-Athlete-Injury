@@ -1,0 +1,22 @@
+{
+  "athlete_id": "A01",
+  "version": 0,
+  "last_updated": 1772566489.8255281,
+  "name": "Abigail Savoy",
+  "age": 22,
+  "height_m": 1.7,
+  "mass_kg": 81.6,
+  "gender": "f",
+  "sport": "soccer",
+  "injury_history": [
+    "Left ACL reconstruction (6 months ago)"
+  ],
+  "active_injury": "ACL_recon",
+  "session_ids": [],
+  "latest_snapshot": null,
+  "baseline": {},
+  "deviations": {},
+  "trends": {},
+  "pain_scores": [],
+  "injury_notes_history": []
+}

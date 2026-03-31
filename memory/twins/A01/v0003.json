@@ -1,0 +1,216 @@
+{
+  "athlete_id": "A01",
+  "version": 3,
+  "last_updated": 1772566489.839384,
+  "name": "Abigail Savoy",
+  "age": 22,
+  "height_m": 1.7,
+  "mass_kg": 81.6,
+  "gender": "f",
+  "sport": "soccer",
+  "injury_history": [
+    "Left ACL reconstruction (6 months ago)"
+  ],
+  "active_injury": "ACL_recon",
+  "session_ids": [
+    "S2026_01_01",
+    "S2026_01_08",
+    "S2026_01_15"
+  ],
+  "latest_snapshot": {
+    "session_id": "S2026_01_15",
+    "knee_angle_r_mean": 34.466497333247545,
+    "knee_angle_r_std": 29.779954383690566,
+    "knee_angle_r_min": 0.0,
+    "knee_angle_r_max": 135.43513364,
+    "knee_angle_l_mean": 36.68469744474264,
+    "knee_angle_l_std": 29.741129951121007,
+    "knee_angle_l_min": 0.0,
+    "knee_angle_l_max": 136.81530158,
+    "hip_flexion_r_mean": 3.910293383651953,
+    "hip_flexion_l_mean": 11.974317916176474,
+    "hip_adduction_r_mean": -1.2174391947549044,
+    "hip_adduction_l_mean": 0.7280886506372551,
+    "ankle_angle_r_mean": 3.8283672962745112,
+    "ankle_angle_l_mean": 2.961747496715684,
+    "pelvis_tilt_mean": -1.6297363009191121,
+    "pelvis_list_mean": -0.6856934373651963,
+    "lumbar_extension_mean": -33.020365953602926,
+    "knee_asymmetry_index": 6.046663230182885,
+    "hip_asymmetry_index": 67.34433300481008,
+    "session_duration_s": 13.5833333,
+    "n_frames": 816
+  },
+  "baseline": {
+    "knee_angle_r_mean": 40.00360142679185,
+    "knee_angle_l_mean": 40.92246308385821,
+    "knee_asymmetry_index": 3.226587017842006,
+    "hip_flexion_r_mean": 9.471060162688955,
+    "hip_flexion_l_mean": 20.710896013000063,
+    "hip_adduction_r_mean": -1.50536380509032,
+    "hip_adduction_l_mean": 1.0951423904096893,
+    "hip_asymmetry_index": 57.22379074749612,
+    "ankle_angle_r_mean": 6.73949810011355,
+    "ankle_angle_l_mean": 4.193268748905219,
+    "pelvis_tilt_mean": -6.1458754754126765,
+    "lumbar_extension_mean": -34.047475795293074,
+    "session_duration_s": 11.711111100000002
+  },
+  "deviations": {
+    "knee_angle_r_mean": {
+      "current": 34.466,
+      "baseline": 40.004,
+      "delta": -5.537,
+      "pct_change": -13.8
+    },
+    "knee_angle_l_mean": {
+      "current": 36.685,
+      "baseline": 40.922,
+      "delta": -4.238,
+      "pct_change": -10.4
+    },
+    "knee_asymmetry_index": {
+      "current": 6.047,
+      "baseline": 3.227,
+      "delta": 2.82,
+      "pct_change": 87.4
+    },
+    "hip_flexion_r_mean": {
+      "current": 3.91,
+      "baseline": 9.471,
+      "delta": -5.561,
+      "pct_change": -58.7
+    },
+    "hip_flexion_l_mean": {
+      "current": 11.974,
+      "baseline": 20.711,
+      "delta": -8.737,
+      "pct_change": -42.2
+    },
+    "hip_adduction_r_mean": {
+      "current": -1.217,
+      "baseline": -1.505,
+      "delta": 0.288,
+      "pct_change": 19.1
+    },
+    "hip_adduction_l_mean": {
+      "current": 0.728,
+      "baseline": 1.095,
+      "delta": -0.367,
+      "pct_change": -33.5
+    },
+    "hip_asymmetry_index": {
+      "current": 67.344,
+      "baseline": 57.224,
+      "delta": 10.121,
+      "pct_change": 17.7
+    },
+    "ankle_angle_r_mean": {
+      "current": 3.828,
+      "baseline": 6.739,
+      "delta": -2.911,
+      "pct_change": -43.2
+    },
+    "ankle_angle_l_mean": {
+      "current": 2.962,
+      "baseline": 4.193,
+      "delta": -1.232,
+      "pct_change": -29.4
+    },
+    "pelvis_tilt_mean": {
+      "current": -1.63,
+      "baseline": -6.146,
+      "delta": 4.516,
+      "pct_change": 73.5
+    },
+    "lumbar_extension_mean": {
+      "current": -33.02,
+      "baseline": -34.047,
+      "delta": 1.027,
+      "pct_change": 3.0
+    },
+    "session_duration_s": {
+      "current": 13.583,
+      "baseline": 11.711,
+      "delta": 1.872,
+      "pct_change": 16.0
+    }
+  },
+  "trends": {
+    "knee_angle_r_mean": [
+      36.88143939246294,
+      48.66286755466507,
+      34.466497333247545
+    ],
+    "knee_angle_l_mean": [
+      36.341234662645384,
+      49.74145714418661,
+      36.68469744474264
+    ],
+    "knee_asymmetry_index": [
+      1.464706201049054,
+      2.1683916222940787,
+      6.046663230182885
+    ],
+    "hip_flexion_r_mean": [
+      7.781311718027351,
+      16.72157538638756,
+      3.910293383651953
+    ],
+    "hip_flexion_l_mean": [
+      23.32076317705818,
+      26.837606945765536,
+      11.974317916176474
+    ],
+    "hip_adduction_r_mean": [
+      -1.4194134487457235,
+      -1.8792387717703325,
+      -1.2174391947549044
+    ],
+    "hip_adduction_l_mean": [
+      1.8262274606157358,
+      0.7311110599760771,
+      0.7280886506372551
+    ],
+    "hip_asymmetry_index": [
+      66.63354599954849,
+      37.69349323812977,
+      67.34433300481008
+    ],
+    "ankle_angle_r_mean": [
+      11.279680627822112,
+      5.110446376244027,
+      3.8283672962745112
+    ],
+    "ankle_angle_l_mean": [
+      3.383174891220062,
+      6.234883858779912,
+      2.961747496715684
+    ],
+    "pelvis_tilt_mean": [
+      -6.433144996180165,
+      -10.374745129138752,
+      -1.6297363009191121
+    ],
+    "lumbar_extension_mean": [
+      -39.51240002139111,
+      -29.60966141088517,
+      -33.020365953602926
+    ],
+    "session_duration_s": [
+      14.6,
+      6.95,
+      13.5833333
+    ]
+  },
+  "pain_scores": [
+    3.0,
+    2.5,
+    2.0
+  ],
+  "injury_notes_history": [
+    "Early stage \u2013 quad weakness noted",
+    "ROM improving, slight knee flexion deficit",
+    "Gait pattern normalizing"
+  ]
+}
