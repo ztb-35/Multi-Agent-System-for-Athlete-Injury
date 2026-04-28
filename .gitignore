@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+.env.*
+*.egg-info/
+dist/
+build/
+.DS_Store
+memory/risk_feedback/
+memory/rehab_feedback/
+memory/__pycache__/
+agents/__pycache__/
+models/__pycache__/
+utils/__pycache__/
